@@ -44,4 +44,7 @@ test_three()
 int main()
 {
    test_positive();
+   test_one();
+   test_two();
+   test_three();
 }
